@@ -1,2 +1,2 @@
 # CallOutNumber
-Given a number, return how it is written in words. The program works for 0<N<100000
+Given a number, return the word representation of that number. The program works for 0<N<100000
